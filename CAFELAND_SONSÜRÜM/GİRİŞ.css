@@ -1,0 +1,292 @@
+ .u-section-1 {
+  background-image: url("images/WhatsAppGrsel2023-12-27saat10.20.37_419d02fa.jpg");
+  background-position: 50% 50.35%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 928px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 76px 357px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin: 17px 131px 0 198px;
+}
+
+.u-section-1 .u-list-1 {
+  width: 384px;
+  margin: 18px 357px 60px auto;
+}
+
+.u-section-1 .u-repeater-1 {
+  grid-template-columns: 100%;
+  min-height: 316px;
+  grid-gap: 10px 10px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 0 30px 30px;
+}
+
+.u-section-1 .u-icon-1 {
+  height: 100px;
+  width: 100px;
+  background-image: none;
+  margin: 63px 101px 0 auto;
+  padding: 20px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 23px 0 -6px 24px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 638px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 294px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 98px;
+    margin-right: 31px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 225px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-right: 336px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 169px;
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1rem;
+  }
+
+  .u-section-1 .u-list-1 {
+    margin-right: 156px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 106px;
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-list-1 {
+    width: 340px;
+    margin-top: -4px;
+    margin-right: auto;
+    margin-left: -29px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: auto;
+    margin: 29px 29px 0 72px;
+  }
+} .u-section-2 {
+  background-image: url("images/WhatsAppGrsel2023-12-27saat10.20.37_419d02fa.jpg");
+  background-position: 50% 100%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 819px;
+}
+
+.u-section-2 .u-blog-1 {
+  margin-top: 59px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-repeater-1 {
+  grid-template-columns: 100%;
+  min-height: 760px;
+  grid-gap: 22px 22px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 10px 0;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 49px 7px 0 585px;
+}
+
+.u-section-2 .u-image-1 {
+  height: 470px;
+  width: 534px;
+  margin: -79px auto 0 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-weight: 700;
+  margin: -374px 146px 0 592px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 667px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+    margin-left: 392px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: 20px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: -403px;
+    margin-right: -37px;
+    margin-left: 600px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 22px;
+    padding-right: 22px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 172px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: 34px;
+    margin-right: 205px;
+    margin-left: 184px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: 20px;
+    margin-right: 71px;
+    margin-left: 138px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-image-1 {
+    height: 299px;
+    width: 340px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: -376px;
+    margin-left: 300px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 550px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 326px;
+  height: 326px;
+  object-position: 51.98% 50%;
+  background-image: url("images/WITW-PROMO-videoSixteenByNineJumbo1600.jpg");
+  background-position: 50% 50%;
+  margin: 65px auto 0 0;
+}
+
+.u-section-3 .u-text-1 {
+  font-weight: 700;
+  font-size: 2.25rem;
+  margin: -222px 0 0 364px;
+}
+
+.u-section-3 .u-btn-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  background-image: none;
+  margin: 38px auto 60px 486px;
+}
+
+.u-section-3 .u-icon-1 {
+  font-size: 4.1429em;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-text-1 {
+    margin-top: 20px;
+    margin-left: 164px;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-left: 286px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-left: 66px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-text-1 {
+    font-size: 1rem;
+  }
+
+  .u-section-3 .u-btn-1 {
+    margin-left: 0;
+  }
+}
